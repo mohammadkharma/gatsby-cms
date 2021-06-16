@@ -17,24 +17,13 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <div
-      className="margin-top-0"
+      className="full-width-image margin-top-0"
       style={{
-        width: `100vw`,
-        height: `600px`,
-        position: `relative`,
-        left: `50%`,
-        right: `50%`,
-        margin: `2em -50vw`,
-        display: `flex`,
-        justifyContent: `center`,
-        alignItems: `center`,
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `center`,
+        backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
-        backgroundSize: `1500px 750px`,
-        backgroundRepeat: `no-repeat`,
       }}
     >
       <div

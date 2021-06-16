@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/remas-logo.jpg
+image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Hamada is the best
+  title: Why Kaldi
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -23,7 +23,7 @@ intro:
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us for current
+        local communities. Check our post or contact us directly for current
         availability.
     - image: /img/coffee-gear.png
       text: >

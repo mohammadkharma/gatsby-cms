@@ -37,7 +37,7 @@ export const IndexPageTemplate = ({
         backgroundRepeat: `no-repeat`,
       }}
     >
-      {/* <div
+      {<div
         style={{
           display: "flex",
           height: "150px",
